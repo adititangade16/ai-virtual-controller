@@ -1,6 +1,6 @@
 # 🖐️ AI Virtual Controller using Hand Gestures
 
-> Control your entire computer using just hand gestures and a clap — powered by AI.
+> A real-time computer vision system for controlling mouse, keyboard, and volume using hand gestures.
 
 A real-time, webcam-based virtual controller built with **Python, OpenCV, and MediaPipe**.
 Control your mouse, scroll, adjust system volume, type on an on-screen keyboard, and
